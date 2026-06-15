@@ -1,0 +1,1 @@
+This is me learning and reviewing how to do data analysis with Python, following the tutorial on YouTube by freeCodeCamp.org. Url: https://www.youtube.com/watch?v=r-uOLxNrNk8
